@@ -42,7 +42,7 @@ I'm an aspiring Cybersecurity professional with experience in Python and web dev
 You can check out the repository [here](https://github.com/tanya-gumbo/Youtube_Media_Downloader_official_version.git).
 
 ## Connect with on📬
-- **LinkedIn**www.linkedin.com/in/tanya-gumbo-8b5447195
+- [LinkedIn](www.linkedin.com/in/tanya-gumbo-8b5447195)
 
 
 
