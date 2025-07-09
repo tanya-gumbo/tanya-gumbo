@@ -22,8 +22,6 @@ I'm an aspiring Cybersecurity professional with experience in Python and web dev
 
 ### Youtube Utility app
 
-![Youtube Utility app UI](https://github.com/user-attachments/assets/1a1e1f11-bb34-4766-afe2-4ea8670dc713)
-
 **The Youtube Utility app** is a **desktop version of Vidmate. It downloads videos from youtube as audios or videos depending on the users preference.** built with **PYQT6, FastAPI, yt-dlp and Python**.
 
 ## Demonstrated Skills
@@ -44,7 +42,7 @@ I'm an aspiring Cybersecurity professional with experience in Python and web dev
 You can check out the repository [here](https://github.com/tanya-gumbo/Youtube_Media_Downloader_official_version.git).
 
 ## Connect with on📬
-- **[LinkedIn]**(www.linkedin.com/in/tanya-gumbo-8b5447195) 
+- **LinkedIn**www.linkedin.com/in/tanya-gumbo-8b5447195
 
 
 
